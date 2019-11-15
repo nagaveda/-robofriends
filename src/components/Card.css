@@ -1,0 +1,8 @@
+.main:hover{
+    
+    transform: scale(0.9);
+}
+.main{
+    transition: all 1s;
+
+}
